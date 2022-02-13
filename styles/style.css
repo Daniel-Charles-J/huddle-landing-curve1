@@ -44,7 +44,7 @@ ul{
     
 }
 .make-up{
-    width:42rem;
+    width:37rem;
 }
 .content{
     width:40%;
@@ -98,14 +98,14 @@ ul{
 .grow-together{
     position: absolute;
     top:4rem;
-    left:45rem;
-    width:23rem;
+    left:43rem;
+    width:20rem;
 }
 .grow{
     position: absolute;
-    top:4rem;
-    right:45rem;
-    width:23rem;
+    top:5rem;
+    right:42rem;
+    width:20rem;
 }
 .grid-wrapper .text-change{
     position: absolute;
@@ -143,9 +143,7 @@ ul{
     height:500px;
     position: relative;
 }
-.footer-box{
 
-}
 .unorder-list{
     display: flex;
     justify-content: space-evenly;
@@ -173,7 +171,7 @@ ul{
 .single-box{
     height:15rem;
     width:55%;
-    left:18rem;
+    left:16rem;
     bottom:32rem;
     background-color:white;
     position: absolute;

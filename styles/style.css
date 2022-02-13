@@ -7,7 +7,7 @@ body{
     font-family: 'Roboto', sans-serif;
 }
 .container-1{
-
+    
 }
 .back-img{
     width: 100%;
@@ -73,4 +73,43 @@ body{
     color: white;
     border-radius: 2rem 2rem;
     border-style: none;
+}
+.container2{
+    width:100%;
+   
+}
+.grid-wrapper{
+    display: flex;
+}
+.grid-wrapper .text{
+    position: absolute;
+    top:11rem;
+    width:37%;
+    left:7rem;
+    line-height: 1.3rem;
+}
+.grid-wrapper .text h2{
+    margin-bottom: 1rem;
+}
+.grid-wrapper .text p{
+    color: #a2aeb0;
+    font-size:1.1rem;
+}
+.grow-together{
+    position: absolute;
+    top:4rem;
+    left:45rem;
+    width:23rem;
+}
+.box{
+    height:28rem;
+    width:85%;
+    background-color:white;
+    position: relative;
+    margin-top: 12rem;
+    left:6rem;
+    border-style: solid;
+  border-color: #edeff0;
+   
+    
 }

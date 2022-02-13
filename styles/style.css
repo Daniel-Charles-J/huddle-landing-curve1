@@ -101,6 +101,26 @@ body{
     left:45rem;
     width:23rem;
 }
+.grow{
+    position: absolute;
+    top:4rem;
+    right:45rem;
+    width:23rem;
+}
+.grid-wrapper .text-change{
+    position: absolute;
+    top:11rem;
+    width:37%;
+    right:7rem;
+    line-height: 1.3rem;
+}
+.grid-wrapper .text-change p{
+    color: #a2aeb0;
+    font-size:1.1rem;
+}
+.grid-wrapper .text-change h2{
+    margin-bottom: 1rem;
+}
 .box{
     height:28rem;
     width:85%;
@@ -109,7 +129,5 @@ body{
     margin-top: 12rem;
     left:6rem;
     border-style: solid;
-  border-color: #edeff0;
-   
-    
+  border-color: #edeff0; 
 }

@@ -197,3 +197,158 @@ ul{
     background-color: white;
     border-style: none;
 }
+
+
+
+@media only screen and (max-width: 600px) {
+    html {
+      font-size: 12px;
+    }
+    .logo{
+        font-size: 1rem;
+    }
+    .hero{
+        display: flex;
+        flex-direction: column;
+    }
+    .content{
+        margin-bottom: 10rem;
+        
+    }
+    .make-up{
+        width:400px;
+        
+    }
+    .box{
+        left:30px;
+    }
+    .boxes{
+        margin-top: 40rem;
+    }
+    .grow-together{
+        display: none;
+    }
+    .grow{
+        display: none;
+    }
+    .single-box{
+        width:50%;
+        left:8rem;
+        top:-10rem;
+    }
+    .single-box h1{
+        font-size: 16px;
+    }
+    .single-box h2{
+        font-size: 10px;
+    }
+    .btn4{
+        height: 3rem;
+    }
+}
+@media only screen and (max-width: 800px) {
+    html {
+      font-size: 12px;
+    }
+    .logo{
+        font-size: 1rem;
+    }
+    .hero{
+        display: flex;
+        flex-direction: column;
+    }
+    .content{
+        margin-bottom: 10rem;
+        
+    }
+    .make-up{
+        width:400px;
+        
+    }
+    .box{
+        left:30px;
+    }
+    .boxes{
+        margin-top: 40rem;
+    }
+    .grow-together{
+       width:20rem;
+       left:23rem;
+    }
+    .text{
+        right:5rem;
+    }
+    .grow{
+        width:20rem;
+       right:23rem;
+    }
+    .single-box{
+        width:50%;
+        left:10rem;
+        top:-10rem;
+    }
+    .single-box h1{
+        font-size: 16px;
+    }
+    .single-box h2{
+        font-size: 10px;
+    }
+    .btn4{
+        height: 3rem;
+    }
+}
+
+@media only screen and (max-width: 800px) {
+    html {
+      font-size: 12px;
+    }
+    .logo{
+        font-size: 4rem;
+    }
+    .hero{
+        display: flex;
+        flex-direction: column;
+    }
+    .content{
+        margin-bottom: 10rem;
+        
+    }
+    .make-up{
+        width:650px;
+        
+    }
+    .box{
+        left:30px;
+        border-style: none;
+    }
+    .boxes{
+        margin-top: 50rem;
+    }
+    .grow-together{
+       width:25rem;
+       left:32rem;
+    }
+    .text{
+        right:5rem;
+    }
+    .grow{
+        width:25rem;
+       right:32rem;
+    }
+    .single-box{
+        width:50%;
+        left:15rem;
+        top:-10rem;
+    }
+    .single-box h1{
+        font-size: 16px;
+    }
+    .single-box h2{
+        font-size: 10px;
+    }
+    .btn4{
+        height: 3rem;
+    }
+}
+
+
